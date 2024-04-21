@@ -2,7 +2,7 @@
 !**/Lib/
 !**/__pycache__/
 !**/share/
-!Scripts/
-!Lib/
-!__pycache__/
-!share/
+Scripts/
+Lib/
+__pycache__/
+share/
